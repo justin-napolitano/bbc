@@ -21,6 +21,13 @@ seoSecondaryKeywords:
   - anubis theme
   - personal blog platform
 seoOptimized: true
+topicFamily: static
+topicFamilyConfidence: 0.95
+topicFamilyNotes: >-
+  The post is about a personal blogging platform built with Hugo and the Anubis theme, which is a
+  static site generator technology. It discusses configuration, themes, content management, and web
+  features typical of static site projects. This matches closely the 'Static' topic family's
+  description and example slugs.
 ---
 
 # Technical Overview of the bbc Project
@@ -71,3 +78,4 @@ The project is built using the Hugo static site generator (extended version), le
 ## Summary
 
 The bbc project is a well-structured, maintainable personal blogging platform built on Hugo and the Anubis theme. It balances simplicity with feature richness, enabling efficient content creation and publication without unnecessary complexity. Its modular design and configuration-driven approach make it adaptable for future enhancements and customizations.
+
