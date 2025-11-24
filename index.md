@@ -1,12 +1,27 @@
 ---
-slug: "github-bbc"
-title: "bbc"
-repo: "justin-napolitano/bbc"
-githubUrl: "https://github.com/justin-napolitano/bbc"
-generatedAt: "2025-11-23T08:38:43.228151Z"
-source: "github-auto"
+slug: github-bbc
+title: 'bbc: A Minimalist Personal Blog Platform Built with Hugo and Anubis Theme'
+repo: justin-napolitano/bbc
+githubUrl: https://github.com/justin-napolitano/bbc
+generatedAt: '2025-11-23T08:38:43.228151Z'
+source: github-auto
+summary: >-
+  Overview of the bbc project, a lightweight personal blogging platform using Hugo extended and
+  Anubis theme with support for dark mode, comments, and multilingual content.
+tags:
+  - hugo
+  - static-site-generator
+  - anubis-theme
+  - personal-blog
+  - blogging-platform
+  - dark-mode
+seoPrimaryKeyword: bbc blogging platform
+seoSecondaryKeywords:
+  - hugo static site
+  - anubis theme
+  - personal blog platform
+seoOptimized: true
 ---
-
 
 # Technical Overview of the bbc Project
 
