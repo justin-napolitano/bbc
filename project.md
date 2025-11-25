@@ -1,19 +1,32 @@
 ---
 slug: github-bbc
 id: github-bbc
-title: bbc
+title: Personal Notebook and Blogging Platform with Hugo
 repo: justin-napolitano/bbc
 githubUrl: https://github.com/justin-napolitano/bbc
 generatedAt: '2025-11-24T21:34:02.727Z'
 source: github-auto
 summary: >-
-  A personal notebook and blogging platform built with Hugo and the Anubis
-  theme. It offers a minimalist and responsive design tailored for capturing
-  ideas, reflections, and personal articles efficiently.
-tags: []
-seoPrimaryKeyword: ''
-seoSecondaryKeywords: []
-seoOptimized: false
+  Explore a minimalist blogging platform built with Hugo, featuring dark mode,
+  multilingual support, and various integrations.
+tags:
+  - hugo
+  - anubis theme
+  - static site generator
+  - google analytics
+  - disqus
+  - css
+  - javascript
+  - multilingual support
+seoPrimaryKeyword: hugo blogging platform
+seoSecondaryKeywords:
+  - minimalist blog
+  - responsive design
+  - blogging with hugo
+  - site deployment
+  - comment system integration
+  - SEO optimization
+seoOptimized: true
 topicFamily: null
 topicFamilyConfidence: null
 kind: project
