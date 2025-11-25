@@ -7,8 +7,8 @@ githubUrl: https://github.com/justin-napolitano/bbc
 generatedAt: '2025-11-24T21:34:02.727Z'
 source: github-auto
 summary: >-
-  Explore a minimalist blogging platform built with Hugo, featuring dark mode,
-  multilingual support, and various integrations.
+  Explore a minimalist blogging platform built with Hugo, featuring dark mode, multilingual support,
+  and various integrations.
 tags:
   - hugo
   - anubis theme
@@ -30,8 +30,8 @@ seoSecondaryKeywords:
   - personal notebook
   - project roadmap
 seoOptimized: true
-topicFamily: null
-topicFamilyConfidence: null
+topicFamily: static
+topicFamilyConfidence: 0.9
 kind: project
 entryLayout: project
 showInProjects: true
@@ -133,3 +133,4 @@ bbc/
 - Expand documentation with usage examples and contribution guidelines
 
 ---
+
