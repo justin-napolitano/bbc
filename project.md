@@ -18,14 +18,17 @@ tags:
   - css
   - javascript
   - multilingual support
+  - anubis
+  - blogging
+  - responsive design
 seoPrimaryKeyword: hugo blogging platform
 seoSecondaryKeywords:
   - minimalist blog
-  - responsive design
-  - blogging with hugo
-  - site deployment
+  - dark mode support
   - comment system integration
   - SEO optimization
+  - personal notebook
+  - project roadmap
 seoOptimized: true
 topicFamily: null
 topicFamilyConfidence: null
